@@ -6,6 +6,7 @@ About me 😀
 - 🌱 I’m currently studying front end development.
 
 How to contact me:
+
 [My Facebook page](https://www.facebook.com/erlend.espe/)
 
 [My LinkedIn page](https://www.linkedin.com/mwlite/in/erlend-espe-3852b724a)
